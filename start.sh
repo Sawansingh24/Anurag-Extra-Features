@@ -7,5 +7,5 @@ then
 fi
 cd /EvaMaria4
 pip3 install -U -r requirements.txt
-echo "Starting ᎯℕUℛᎯᎶ....🔥"
+echo "Starting EvaMaria4....🔥"
 python3 bot.py
