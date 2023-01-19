@@ -1,9 +1,9 @@
 if [ -z $UPSTREAM_REPO ]
 then
   echo "Cloning main Repository"
-  git clone https://github.com/Sawansingh24/EvaMaria4
+  git clone https://github.com/Sawansingh24/Anurag-Extra-Features.git/ Anurag-Extra-Features
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
-  git clone $UPSTREAM_REPO /EvaMaria4
+  git clone $UPSTREAM_REPO /Anurag-Extra-Features
 fi
 cd /Anurag-Extra-Features
 pip3 install -U -r requirements.txt
