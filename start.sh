@@ -8,5 +8,5 @@ else
 fi
 cd /Anurag-Extra-Features
 pip3 install -U -r requirements.txt
-echo "Starting...."
+echo "Starting ᎯℕUℛᎯᎶ....🔥"
 python3 bot.py
