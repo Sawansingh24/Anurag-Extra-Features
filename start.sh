@@ -5,7 +5,7 @@ then
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
   git clone $UPSTREAM_REPO /EvaMaria4
 fi
-cd /EvaMaria4
+cd /Anurag-Extra-Features
 pip3 install -U -r requirements.txt
 echo "Starting...."
 python3 bot.py
